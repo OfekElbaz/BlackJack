@@ -1,0 +1,25 @@
+
+BlackJack Rules:
+
+* Before getting cards you need to place a bet, make sure you have enough chips.
+
+* Winner take's it all, if you lose you get nothing, winning reward you with your bet*2.
+
+* If you are out of chips you can always refill at the game menu.
+
+* You are the Player and you play against the Dealer.
+
+* Player receive 2 open cards, Dealer receive 1 open card and 1 hidden.
+
+* GOAL OF THE GAME: score as close as you can without surpassing 21.
+
+* If you pass 21 you are BUSTED, if both the player and dealer bust the dealer wins.
+
+* You can tie up to 21.
+
+* All the numbers equal their worth,K,Q,J worth 10,Ace worth 11 or 1 if you'll pass 21.
+
+* Hit - Player and Dealer receive another card, if someone pass 21 they Bust.
+  if the dealer have 17 or more only the player receive a card.
+
+* Stand - Stop receiving cards, reveal the dealer's card and compare scores.
